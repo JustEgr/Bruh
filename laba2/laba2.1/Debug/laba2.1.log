@@ -1,0 +1,4 @@
+﻿  laba2.1.cpp
+C:\Work\laba2.1\laba2.1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Work\laba2.1\laba2.1.cpp(85,14): warning C4101: maxI: неиспользованная локальная переменная
+  laba2.1.vcxproj -> C:\Work\laba2.1\Debug\laba2.1.exe
