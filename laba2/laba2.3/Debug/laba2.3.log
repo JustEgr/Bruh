@@ -1,0 +1,3 @@
+﻿  laba2.3.cpp
+C:\Work\laba2.3\laba2.3.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba2.3.vcxproj -> C:\Work\laba2.3\Debug\laba2.3.exe
