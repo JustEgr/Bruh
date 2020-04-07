@@ -40,7 +40,7 @@ int main()
             cout << "ERROR!\n";
             break;
         }
-    while (n < 4 || m < 4);
+    while (n < 3 || m < 3);
     cout << "\nSize of the field: " << n << " rows and " << m << " columns\n";
     int** field; //задаем поле (многомерный массив)
     field = new int* [n];
@@ -71,10 +71,11 @@ int main()
         NextGen(field, PreviousField, n, m);                      //генерируем новое
         Edem = FieldsCompare(field, PreviousField, n, m) == 0;    //сравниваем поля
         livingpoints = livingPoints(field, n, m);                 //проверяем количество живых клеток
-        if (Edem)
-            cout << "Edem Garden\n";                              //Эдемов сад
-        if (livingpoints == 0)
-            cout << "YOU DIED\n";                                 //все здохли. конец.
+        if (Edem || livingpoints == 0)
+        {
+            cout << "End.\n";
+            return 0;
+        }
         Sleep(2000); //прерывание цикла, чтобы пользователь успел увидеть поле
     } while (livingpoints != 0 || !Edem);
 	return 0;
@@ -180,7 +181,7 @@ int FieldsCompare(int** a, int** a1, int n, int m) //сравнение поле
 {
     for (int i = 0; i < n; i++)
         for (int j = 0; j < m; j++)
-            if (a != a1)
+            if (a[i][j] != a1[i][j])
                 return -1;
     return 0;
 }
