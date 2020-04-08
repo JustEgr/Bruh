@@ -1,0 +1,6 @@
+﻿  lab2.4.cpp
+C:\Work\lab2.4\lab2.4.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Work\lab2.4\lab2.4.cpp(88,42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\lab2.4\lab2.4.cpp(93,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\lab2.4\lab2.4.cpp(131,30): warning C4305: инициализация: усечение из "double" в "float"
+  lab2.4.vcxproj -> C:\Work\lab2.4\Debug\lab2.4.exe
