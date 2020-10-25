@@ -1,0 +1,3 @@
+﻿  sem3lab4.cpp
+C:\Work\sem3lab4\Header1.h(12,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  sem3lab4.vcxproj -> C:\Work\sem3lab4\Debug\sem3lab4.exe
