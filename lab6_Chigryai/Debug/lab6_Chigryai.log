@@ -1,0 +1,8 @@
+﻿  lab6_Chigryai.cpp
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(11,14): warning C4101: size: неиспользованная локальная переменная
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(12,15): warning C4101: color: неиспользованная локальная переменная
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(54,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(68,15): warning C4101: material: неиспользованная локальная переменная
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(67,14): warning C4101: h: неиспользованная локальная переменная
+C:\Work\lab6_Chigryai\lab6_Chigryai.cpp(92,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab6_Chigryai.vcxproj -> C:\Work\lab6_Chigryai\Debug\lab6_Chigryai.exe
