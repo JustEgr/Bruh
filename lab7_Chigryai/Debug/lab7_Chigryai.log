@@ -1,0 +1,7 @@
+﻿  lab7_Chigryai.cpp
+C:\Work\lab7_Chigryai\lab7_Chigryai.cpp(57,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Work\lab7_Chigryai\lab7_Chigryai.cpp(96,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Work\lab7_Chigryai\lab7_Chigryai.cpp(100,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Work\lab7_Chigryai\lab7_Chigryai.cpp(136,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Work\lab7_Chigryai\lab7_Chigryai.cpp(140,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab7_Chigryai.vcxproj -> C:\Work\lab7_Chigryai\Debug\lab7_Chigryai.exe
