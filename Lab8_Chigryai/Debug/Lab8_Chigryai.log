@@ -1,0 +1,5 @@
+﻿  Lab8_Chigryai.cpp
+C:\Work\Lab8_Chigryai\Lab8_Chigryai.cpp(69,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Work\Lab8_Chigryai\Lab8_Chigryai.cpp(80,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Work\Lab8_Chigryai\Lab8_Chigryai.cpp(91,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab8_Chigryai.vcxproj -> C:\Work\Lab8_Chigryai\Debug\Lab8_Chigryai.exe
